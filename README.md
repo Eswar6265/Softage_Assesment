@@ -102,15 +102,6 @@ The completed model is exported as an `.stl` file for:
 * build123d
 * Parametric CAD Modelling
 
----
-
-## Key Highlights
-
-* Fully script-driven CAD generation
-* Modular and reusable design workflow
-* Parametric nano-scale modelling
-* Programmatic geometry construction
-* STL export support
 
 ---
 
