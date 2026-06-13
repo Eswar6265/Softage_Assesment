@@ -1,6 +1,3 @@
-# Softage_Assesment
-Here’s a polished README draft that explains your workflow clearly while still sounding professional and engineering-focused.
-
 # Nano Fuse CAD Modelling using Build123d
 
 ## Overview
