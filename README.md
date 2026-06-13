@@ -124,15 +124,3 @@ export_stl(Final_Part.part, "Final_Part.stl")
 
 ---
 
-## Motivation
-
-This project was built to demonstrate how software engineering and CAD modelling can work together to create precise engineering structures programmatically.
-
-It combines:
-
-* Computational geometry
-* Parametric design
-* Python automation
-* Engineering modelling workflows
-
-into a single reproducible pipeline.
